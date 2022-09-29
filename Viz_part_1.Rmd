@@ -1,0 +1,17 @@
+---
+title: "Viz and EDA I"
+author: "Wenyan Ma"
+date: "2022-09-29"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(ggridges)
+```
+
+```{r}
+
+```
+
